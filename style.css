@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+form{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:50px;
+    border:none;
+    width:300px;
+    height:200px;
+    margin-top: 20%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 1px 2px 8px 4px rgb(129, 129, 231);
+
+    
+}
+hr{
+    width:25%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+hr:hover{
+    width:5%
+}
+h1:hover{
+    font-weight: 50;
+}
+h1{
+    margin-top: 8%;
+    margin-bottom: -10%;
+   text-align: center;
+  color:blue;
+}
+form:hover{
+    width: 410px;
+    height: 210px;
+    border-radius: none;
+}
+button{
+    margin-left: 70%;
+    margin-right: 30%;
+    margin-top: 5%;
+    font-size: 15px;
+    color:brown;
+    font-weight: bold;
+    
+}
+input{
+    margin-left: 30px;
+    margin-top: -2px;
+   
+    margin-right: 3px;
+}
+h2{
+    margin-left: 10px;
+    font-size: 20px;
+}
+body{
+    background-color: rgba(229, 231, 230, 0.9);
+}
+.head{
+    background-color: rgba(69, 97, 134, 0.9);
+    border-bottom:5px blue double;
+    font-size: 15px;
+    color:aliceblue;
+
+}
+span{
+    margin-right: 5px;
+    color: rgb(218, 114, 114);
+    font-size: 30px;
+}
+fieldset{
+    width: 30%;
+    margin-bottom: -50%;
+    margin-top: 5%;
+}
+p{
+    font-size: 10px;
+    color:brown;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.next{
+    font-size: 12px;
+    font-weight: bold;
+    color: red;
+}
+.gender{
+    font-weight: lighter;
+    color:blue;
+    margin-top: -10px;;
+    
+    margin-left: 15px;
+}
+h5{
+    margin-top: -10px;
+}
+.net{
+    margin-bottom: 10px;;
+}
+select{
+    border:none;
+    border-bottom: 2px solid blue;
+    background-color: aliceblue;
+    text-align: center;
+
+}
